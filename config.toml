@@ -1,0 +1,8 @@
+baseurl = "http://note.kresna.xyz/"
+title = "Kresna Note on Software Development"
+languageCode = "en-us"
+theme = "beg"
+
+[Params]
+  Author = "Freddy K Tjoenedi"
+  disqusShortname = "fkresna"
