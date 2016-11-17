@@ -2,7 +2,16 @@ baseurl = "http://note.kresna.xyz/"
 title = "Kresna Note on Software Development"
 languageCode = "en-us"
 theme = "beg"
-
+disqusShortname = "fkresna"
+disqusUrl = "note.kresna.xyz"
+copyright = "Kresna.xyz"
+googleAnalytics = "UA-87171113-1"
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+[[menu.main]]
+    name = "Kresna.xyz"
+    identifier = "Kresna.xyz"
+    url = "http://kresna.xyz"
 [Params]
   Author = "Freddy K Tjoenedi"
-  disqusShortname = "fkresna"
